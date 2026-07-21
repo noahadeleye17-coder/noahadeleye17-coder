@@ -26,9 +26,7 @@ Currently shipping **[Off-Campus Hub](https://offcampushub.ng)** — a student h
 
 ### 📊 GitHub Stats
 
-![Noah's GitHub stats](https://github-readme-stats.vercel.app/api?username=noahadeleye17-coder&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=noahadeleye17-coder&layout=compact&theme=dark)
-
+![Noah's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=noahadeleye17-coder&show_icons=true&theme=dark)
 ### 📫 Reach me
 
 [![Website](https://img.shields.io/badge/Website-offcampushub.ng-blue?style=flat-square)](https://offcampushub.ng)
