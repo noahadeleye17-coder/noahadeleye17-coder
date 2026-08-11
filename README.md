@@ -53,7 +53,7 @@ A WhatsApp-native storefront platform. Vendors get a shareable link; customers b
 - 🔗 One shareable storefront link per vendor
 - 💬 Direct-to-WhatsApp ordering flow
 - ⚡ Zero friction — no sign-up required for customers
-- AI chatbot to answer customers questions
+- AI chatbot to answer customers questions about vendors listings
 
 <div align="center">
   <a href="https://github.com/noahadeleye17-coder?tab=repositories&sort=stargazers">
