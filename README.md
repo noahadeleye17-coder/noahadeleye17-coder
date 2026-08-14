@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-Full-stack developer, AI/ML Engineer. Building real products end-to-end — from backend architecture to deployment. Based in Lagos, Nigeria 🇳🇬. Currently shipping **[Off-Campus Hub](https://offcampushub.ng)**, a student housing & roommate-matching platform for FUTA students, alongside other projects exploring AI and machine learning.
+Full-stack developer, AI/ML Engineer. Building real products end-to-end — from backend architecture to deployment. Based in Lagos, Nigeria 🇳🇬. Currently shipping **[Off-Campus Hub](https://offcampushub.ng)**, a student housing & roommate-matching platform with geo-location for FUTA students, alongside other projects exploring AI and machine learning.
 
 - 📫 Reach me at: **noahadeleye17@gmail.com**
 
